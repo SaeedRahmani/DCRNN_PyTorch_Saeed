@@ -101,3 +101,10 @@ ENV/
 
 # pycharm
 .idea/
+data/METR-LA/test.npz
+data/METR-LA/train.npz
+data/dcrnn_predictions.npz
+data/model/pretrained/METR-LA/.DS_Store
+runs/data/model/pretrained/METR-LA/events.out.tfevents.1680249269.TUD501210.2589.0
+runs/data/model/pretrained/METR-LA/events.out.tfevents.1680249575.TUD501210.5747.0
+data/METR-LA/val.npz
