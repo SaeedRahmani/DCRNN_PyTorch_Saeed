@@ -109,3 +109,6 @@ runs/data/model/pretrained/METR-LA/events.out.tfevents.1680249269.TUD501210.2589
 runs/data/model/pretrained/METR-LA/events.out.tfevents.1680249575.TUD501210.5747.0
 data/METR-LA/val.npz
 data/metr-la.h5.aux.xml
+data/Sensors_location_GIS.qgz
+scripts/Untitled.ipynb
+.gitignore
